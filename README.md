@@ -1,7 +1,7 @@
 <!--
 ### Hi there 👋
 -->
-### 我是Shmilysw ✨ 🤔
+### 大家好，我是[Shmilysw](http://shmilysw.gitee.io/) ✨ 👋 🤔
 
 以下是我的一些想法，也许我是个有趣的人，哈哈：
 - 🛫 目前状态：实习生~
@@ -10,6 +10,13 @@
 - 🌱 博客：<a href="https://shmilysw.gitee.io/" target="_blank">Shmilysw的博客网站</a>
 - 🏡 作品：还在学习中~
 
+Languages and Tools:
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 
 ## 今年汇总 ✨
 
