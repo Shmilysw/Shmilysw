@@ -7,7 +7,7 @@
 - 🛫目前状态：实习生~
 - 🐧 梦想：全栈攻城狮，找寻适合自己的方向中~
 - 💬 微信：sw1828045443(请备注事由)~
-- 🌱 博客：<a href="https://shmilysw.gitee.io/" target="_blank">Shmilysw的博客网站</a>~
+- 🌱 博客：<a href="https://shmilysw.github.io/" target="_blank">Shmilysw的博客网站</a>~
 - 🏡 作品：还在学习中~
 
 Languages and Tools:
