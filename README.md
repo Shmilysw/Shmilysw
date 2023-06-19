@@ -1,24 +1,30 @@
 <!--
 ### Hi there 👋
 -->
-### 大家好，这里是[Shmilysw](http://shmilysw.gitee.io/) ✨ 👋 🤔😄
+### 大家好，这里是[Shmilysw](http://shmilysw.gitee.io/) ✨ 👋 🤔 😄 ⚡
 + 还是个five
++ 世界之大，无奇不有，每天一遍，三观再见！
 
 以下是我的一些想法，也许我是个有趣的人，哈哈：
 - 🛫目前状态：实习生~
 - 🐧 梦想：全栈攻城狮，找寻适合自己的方向中~
-- 💬 微信：sw1828045443(请备注事由)~
+- 💬 微信：Shmilysw(请备注事由)~
 - 🌱 博客：<a href="https://shmilysw.github.io/" target="_blank">Shmilysw的博客网站</a>~
 - 🏡 作品：还在学习中~
 
 Languages and Tools:
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 ## 今年汇总 ✨
 
