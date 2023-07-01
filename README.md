@@ -2,11 +2,12 @@
 ### Hi there 👋
 -->
 ### 大家好，这里是[Shmilysw](http://shmilysw.gitee.io/) ✨ 👋 🤔 😄 ⚡
++ 下一站 -> "浙江大学台州研究院"
 + 还是个five
 + 世界之大，无奇不有，每天一遍，三观再见！
 
 以下是我的一些想法，也许我是个有趣的人，哈哈：
-- 🛫目前状态：实习生~
+- 🛫目前状态：实习生(浙江大学台州研究院)~
 - 🐧 梦想：全栈攻城狮，找寻适合自己的方向中~
 - 💬 微信：Shmilysw(请备注事由)~
 - 🌱 博客：<a href="https://shmilysw.github.io/" target="_blank">Shmilysw的博客网站</a>~
