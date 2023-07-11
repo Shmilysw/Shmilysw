@@ -7,14 +7,15 @@
 + 世界之大，无奇不有，每天一遍，三观再见！
 
 以下是我的一些想法，也许我是个有趣的人，哈哈：
-- 🛫目前状态：实习生(浙江大学台州研究院)~
-- 🐧 梦想：全栈攻城狮，找寻适合自己的方向中~
-- 💬 微信：Shmilysw(请备注事由)~
-- 🌱 博客：<a href="https://shmilysw.github.io/" target="_blank">Shmilysw的博客网站</a>~
-- 🏡 作品：还在学习中~
+- 🛫目前状态：实习生 "浙江大学台州研究院"
+- 🐧 梦想：全栈攻城狮，找寻适合自己的方向中
+- 💬 微信：Shmilysw(请备注事由)
+- 🌱 博客：<a href="https://shmilysw.github.io/" target="_blank">Shmilysw的博客网站</a>
+- 🏡 作品：还在学习中
 
 Languages and Tools:
 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
