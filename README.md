@@ -9,7 +9,7 @@
 以下是我的一些想法，也许我是个有趣的人
 - :rocket: 目前状态：实习生
 - :clown_face: 梦想：全栈攻城狮 <!-- - 💬 微信：请备注事由 -->
-- :pencil2: 博客：<a href="https://shmilysw.github.io/" target="_blank">Shmilysw的Blog网站</a>
+- :pencil: 博客：<a href="https://shmilysw.github.io/" target="_blank">Shmilysw的Blog网站</a>
 - :boom: 算法：<a href="https://shmilysw.github.io/algorithm/" target="_blank">Shmilysw的Algorithm模板</a>
 - :poop: 工作：学习 ing 
 
