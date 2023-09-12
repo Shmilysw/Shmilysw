@@ -1,12 +1,21 @@
 <!--
 ### Hi there 👋
--->
 ### 大家好，这里是[Shmilysw](http://shmilysw.github.io/) ✨ 👋 🤔 😄 ⚡ :tada:
+-->
+
+### Hi everyone, here it is [Shmilysw](http://shmilysw.github.io/) 👋 🤔 😄 :tada:
+
 <!-- + work -> "研究院光电研究所" -->
-+ 还是个 Five
+<!-- + 还是个 Five -->
+
++ just a Five.
+
 <!-- + 世界之大，无奇不有，每天一遍，三观再见！-->
 
-以下是我的一些想法，也许我是个有趣的人
+<!-- 以下是我的一些想法，也许我是个有趣的人 -->
+
+Here are some of my thoughts, maybe I'm an interesting person.
+
 - :rocket: 目前状态：实习生
 - :clown_face: 梦想：全栈攻城狮 <!-- - 💬 微信：请备注事由 -->
 - :pencil: 博客：<a href="https://shmilysw.github.io/" target="_blank">Shmilysw的Blog网站</a>
@@ -29,7 +38,11 @@ Languages and Tools:
 <!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> -->
 <!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> -->
 
-## 今年汇总 ✨
+Motto:
+
+You got to put the past behind you before you can move on. 
+
+### 今年汇总 ✨
 
 <img align="" height="137px" src="https://readme-stats.clckblog.space/api?username=Shmilysw&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://readme-stats.clckblog.space/api/top-langs/?username=Shmilysw&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 
