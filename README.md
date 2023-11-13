@@ -46,7 +46,22 @@ You got to put the past behind you before you can move on.
 
 <img align="" height="137px" src="https://readme-stats.clckblog.space/api?username=Shmilysw&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://readme-stats.clckblog.space/api/top-langs/?username=Shmilysw&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 
+<!--
+<div align=""> <img src="https://stats.justsong.cn/api/website/?url=https://github.com/&style=flat&logo=github">
+<img src="https://stats.justsong.cn/api/website/?url=https://google.com/&style=flat&logo=google">
+<img src="https://stats.justsong.cn/api/website/?url=https://telegram.org/&style=flat&logo=telegram">
+</div>
+-->
 
+<!--Line跑码线-->
+<img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/paomaxian.gif?raw=true" height="20" width="100%">
+<!--贡献速度-->
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shmilysw&theme=react-dark&bg_color=20232a&hide_border=true"width="100%"/> -->
+<!--
+<div align="center"><img src="https://github.com/Shmilysw/Shmilysw.github.io/blob/main/share/QR_c.gif?raw=true"width="20%"><img src="https://komarev.com/ghpvc/?username=Shmilysw&amp;label=Views&amp;color=0e75b6&amp;style=flat"style="max-width: 100%;"><img src="https://badges.pufler.dev/visits/Shmilysw/Shmilysw?color=black&logo=github&style=flat-square">♂
+<img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/duck.gif?raw=true"width="20%">
+</div>
+-->
 <!--
 **Shmilysw/Shmilysw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
