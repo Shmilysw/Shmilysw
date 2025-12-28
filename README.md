@@ -43,9 +43,9 @@ Motto:
 
 You got to put the past behind you before you can move on. 
 
-### 今年汇总 ✨
+<!-- ### 今年汇总 ✨ -->
 
-<img align="" height="137px" src="https://readme-stats.clckblog.space/api?username=Shmilysw&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://readme-stats.clckblog.space/api/top-langs/?username=Shmilysw&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
+<!-- <img align="" height="137px" src="https://readme-stats.clckblog.space/api?username=Shmilysw&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://readme-stats.clckblog.space/api/top-langs/?username=Shmilysw&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" /> -->
 
 <!--
 <div align=""> <img src="https://stats.justsong.cn/api/website/?url=https://github.com/&style=flat&logo=github">
@@ -55,7 +55,7 @@ You got to put the past behind you before you can move on.
 -->
 
 <!--Line跑码线-->
-<img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/paomaxian.gif?raw=true" height="20" width="100%">
+<!-- <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/paomaxian.gif?raw=true" height="20" width="100%"> -->
 <!--贡献速度-->
 <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shmilysw&theme=react-dark&bg_color=20232a&hide_border=true"width="100%"/> -->
 <!--
