@@ -8,7 +8,8 @@
 <!-- + work -> "研究院光电研究所" -->
 <!-- + 还是个 Five -->
 
-+ just a Five.
+<!-- + just a Five. -->
+
 
 <!-- + 世界之大，无奇不有，每天一遍，三观再见！-->
 
@@ -16,7 +17,7 @@
 
 Here are some of my thoughts, maybe I'm an interesting person.
 
-- :rocket: 目前状态：实习生
+- :rocket: 目前状态：摆烂
 - :clown_face: 梦想：全栈攻城狮 <!-- - 💬 微信：请备注事由 -->
 - :pencil: 博客：<a href="https://shmilysw.github.io/" target="_blank">Shmilysw的Blog网站</a>
 - :boom: 算法：<a href="https://shmilysw.github.io/algorithm/" target="_blank">Shmilysw的Algorithm模板</a>
